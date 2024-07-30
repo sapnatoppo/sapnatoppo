@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sapna Toppo</h1>
 
 <h2 align="center">
-I'm a Frontend Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Frontend Developer and Designer 🎨!
 </h2> 
 
 I love the process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
